@@ -26,7 +26,7 @@
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">extends export signal emit_signal Engine Performance OS AudioServer</Keywords>
             <Keywords name="Keywords2">_&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords3">if elif else var and not or enum true false print print_debug return tool yield pass abs lerp match</Keywords>
+            <Keywords name="Keywords3">if elif else var and not or for break enum true false print print_debug return tool yield pass abs lerp match</Keywords>
             <Keywords name="Keywords4"></Keywords>
             <Keywords name="Keywords5">bool int float Vector2 Vector3 Basis Transform Transform2D</Keywords>
             <Keywords name="Keywords6">get set add is</Keywords>
