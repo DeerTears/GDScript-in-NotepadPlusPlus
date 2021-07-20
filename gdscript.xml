@@ -26,11 +26,11 @@
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">extends export signal Engine Performance OS AudioServer test</Keywords>
             <Keywords name="Keywords2">_&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords3">if elif else var const and not or enum true false print print_debug return tool yield pass abs lerp match</Keywords>
-            <Keywords name="Keywords4"></Keywords>
-            <Keywords name="Keywords5">bool int float Vector2 Vector3 Basis Transform Transform2D</Keywords>
-            <Keywords name="Keywords6">get set add is</Keywords>
-            <Keywords name="Keywords7">Input</Keywords>
+            <Keywords name="Keywords3">if elif else var const and not or enum true false break continue print prints printt printerr printraw printf printn print_stack print_debug preload posmod pow return tool yield pass abs lerp inverse_lerp range rand_range match is</Keywords>
+            <Keywords name="Keywords4">Node Control Node2D Spatial Label RichTextLabel Button CheckButton CheckBox ToolButton MenuButton VBoxContainer HBoxContainer HSeparator VSeparator</Keywords>
+            <Keywords name="Keywords5">bool int float Vector2 Vector3 Basis Transform Transform2D Dictionary Array PackedScene Curve Gradient Mesh Resource File</Keywords>
+            <Keywords name="Keywords6">get set add</Keywords>
+            <Keywords name="Keywords7">Input AudioServer VisualServer Global ProjectSettings Engine OS</Keywords>
             <Keywords name="Keywords8">onready $</Keywords>
             <Keywords name="Delimiters">00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
